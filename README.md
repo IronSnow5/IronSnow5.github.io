@@ -1,1 +1,61 @@
-# My Website
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>IronSnow | Bio</title>
+
+    <script
+
+      src="https://kit.fontawesome.com/cf16def632.js"
+
+      crossorigin="anonymous"
+
+    ></script>
+
+    <link rel="stylesheet" href="main.css" />
+
+  </head>
+
+  <body>
+
+    <div class="card">
+
+      <br />
+
+      <br />
+
+      <p class="big-txt">IronSnow</p>
+
+      <p class="grey">IronSnow#9503</p>
+
+      <div class="bottom">
+
+        <div class="center">
+
+          <a href="https://github.com/IronSnow5" class="btn"><p class="fa-brands fa-github logo"></p></a>
+
+          <a href="https://www.youtube.com/channel/UCg9gpPAgtBcLd3di4sQarbw" class="btn"><p class="fa-brands fa-youtube logo"></p></a>
+
+          <a href="https://open.spotify.com/user/31khju67lmmu6gmog6wzgee4wa3y" class="btn"><p class="fa-brands fa-spotify logo"></p></a>
+
+        </div>
+
+      </div>
+
+    </div>
+<footer>
+
+        <p>website made by cacti4</p>
+
+      </footer>
+
+    <!-- please do not remove this text, and don't be like thereallo with thereallo.dev -->
+</body>
+
+</html>
